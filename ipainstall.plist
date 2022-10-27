@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://media.githubusercontent.com/media/songxuhua/ipaInstaller/main/AppIcon_full.png</string>
+					<string>https://raw.githubusercontent.com/songxuhua/ipaInstaller/main/AppIcon_full.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://media.githubusercontent.com/media/songxuhua/ipaInstaller/main/AppIcon_dis.png</string>
+					<string>https://raw.githubusercontent.com/songxuhua/ipaInstaller/main/AppIcon_dis.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
