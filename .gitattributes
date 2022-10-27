@@ -1,0 +1,2 @@
+*.ipa filter=lfs diff=lfs merge=lfs -text
+zhonghuawannianli_891.ipa filter=lfs diff=lfs merge=lfs -text
